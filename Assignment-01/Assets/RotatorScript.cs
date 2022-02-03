@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RotatorScript : MonoBehaviour
 {
@@ -17,23 +18,23 @@ public class RotatorScript : MonoBehaviour
     void FixedUpdate()
     {
 
-        /*if (Input.GetKey(KeyCode.R))
-        {*/
-        this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
-        /* }
+       if (Input.GetKey(KeyCode.R))
+        {
+          this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
+        }
          if (Input.GetKey(KeyCode.T))
         {
-             this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
+           this.GetComponent<Transform>().Rotate(0f, -rotationSpeed, 0f);
         }
-     }
-
-     //  public void Rotate()
-     // {
-     //   this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
-     //  }
-     // public void Rotate2()
-     // {
-     //  this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
-         }*/
+     
     }
+    /*public void Rotate( InputAction.CallbackContext context)
+    {
+        Debug.Log("Input detected");
+        this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
+    }
+    public void Rotate2()
+    {
+        this.GetComponent<Transform>().Rotate(0f, rotationSpeed, 0f);
+    }*/
 }
