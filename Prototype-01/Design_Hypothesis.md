@@ -8,7 +8,7 @@ How to design a simple playable game with various levels of difficulty using my 
 
 **List of questions for playtesters**
 
-How did you find the game subject?
+  How did you find the game subject?
 How well could I employ my skills to construct the game environment?
 What was the game difficulty level?
 Do you think I could expand this prototype idea and go further?
