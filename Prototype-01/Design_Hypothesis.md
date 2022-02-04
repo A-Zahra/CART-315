@@ -1,11 +1,13 @@
-Design hypothesis 
+**Design hypothesis**
+
 Through this prototype, I could get more familiar with the Unity environment. 
 I could apply the skills that I have learned so far. Creating various materials, 3D objects, and prefabs, 
 I tried to figure out all the different possibilities that Unity can provide its users. In this prototype, 
 I answered the following question:
 How to design a simple playable game with various levels of difficulty using my current knowledge?
 
-List of questions for playtesters:
+**List of questions for playtesters**
+
 How did you find the game subject?
 How well could I employ my skills to construct the game environment?
 What was the game difficulty level?
