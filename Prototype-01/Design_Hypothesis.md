@@ -8,12 +8,12 @@ How to design a simple playable game with various levels of difficulty using my 
 
 **List of questions for playtesters**
 
-  How did you find the game subject?
-How well could I employ my skills to construct the game environment?
-What was the game difficulty level?
-Do you think I could expand this prototype idea and go further?
-What other barriers or stuff did you expect to come across?
-What did you find annoying?
-Did you find anything creative in this prototype? If so, what was it?
-What part of this prototype could get done differently?
-How many times did you play the game to get to the village?
+- How did you find the game subject?
+- How well could I employ my skills to construct the game environment?
+- What was the game difficulty level?
+- Do you think I could expand this prototype idea and go further?
+- What other barriers or stuff did you expect to come across?
+- What did you find annoying?
+- Did you find anything creative in this prototype? If so, what was it?
+- What part of this prototype could get done differently?
+- How many times did you play the game to get to the village?
